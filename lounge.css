@@ -1,0 +1,26 @@
+body {
+  font-family: sans-serif;
+}
+h1, h2 {
+  font-family: sans-serif;
+  color: gray;
+  }
+h1{
+  border-bottom: 1px soild black;
+}
+p {
+   font-family: sans-serif;
+  color: maroon;
+}
+blockquote.greentea p.greentea {
+  color: green;
+}
+blockquote.raspberry p.raspberry {
+  color: blue;
+}
+blockquote.blueberry p.blueberry {
+  color: purple;
+}
+em {
+  font-style: initial
+}
